@@ -8,7 +8,8 @@ body {
     line-height: 1.6;
 }
 
-header {
+header,
+footer {
     background-color: #333;
     color: #fff;
     padding: 10px;
@@ -49,7 +50,7 @@ section p {
 }
 
 ul {
-    margin-left: 10px 0;
+    margin: 10px 20px;
 }
 
 footer {
