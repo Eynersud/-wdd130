@@ -43,6 +43,10 @@ section p {
     margin: 10px;
 }
 
+ul {
+    margin-left: 10px 0;
+}
+
 footer {
     font-size: .9rem;
 }
